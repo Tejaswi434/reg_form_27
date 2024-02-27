@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+h1 {
+  color: #ea580c;
+  text-align: center;
+}
+.btn {
+  background-color: #ea580c;
+  color: white;
+}
+.white-background {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form_back {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  justify-content: center;
+  margin-left: 580px;
+}
+button {
+  margin-top: 20px;
+  width: 20%;
+  margin-left: 100px;
+}
